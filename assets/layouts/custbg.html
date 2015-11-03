@@ -1,0 +1,23 @@
+---
+layout: slide
+---
+
+ {{{ slide.content }}} 
+<div style='float:left;width:30%;' class='centered'>
+  {{{ slide.left.html }}}
+</div>
+<div style='float:right;width:48%;' class='centered'>
+  {{{ slide.right.html }}}
+</div>
+<div style='float:left;width:38%;margin-left:30%' class='centered'>
+  {{{ slide.centre.html }}}
+</div>
+
+<style>
+#{{{ slide.id }}} {
+  background-image:url({{{ slide.bg }}}); 
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+}
+</style>

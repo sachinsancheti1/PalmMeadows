@@ -1,0 +1,118 @@
+---
+title       : Palm Meadows
+subtitle    : Farm House living at the foothills of Nilgiris
+author      : Developed by Vitrag Group, Coonoor
+job         : 
+logo        : Final Logo - Copy1.png
+biglogo     : [36.jpg]
+framework   : io2012        # {io2012, html5slides, shower, dzslides, ...}
+highlighter : highlight.js  # {highlight.js, prettify, highlight}
+hitheme     : tomorrow       # 
+widgets     : []            # {mathjax, quiz, bootstrap}
+mode        : selfcontained # {selfcontained,standalone, draft}
+knit        : slidify::knit2slides
+---
+
+## PALM MEADOWS
+
+> * Palm Meadows is a 17 acre orchard promoting a conducive environment for eco-friendly living. 
+> * Located at the foothills of the Nilgiris mountain range, Palm Meadows enjoys the best of the being near Coimbatore as well as the Blue moutains surrounding it.
+> * As Coimbatore expands to the suburbs, Palm Meadows enjoys the proximity to numerous schools, colleges and reputed medical institutes in the vicinity.
+
+
+--- &custbg bg:"./assets/img/23.jpg"
+
+## LOCATION
+
+>* Well recognized institutions like Vidya Vikaas School and Christ the King College are within a mile.
+>* With a State Highway 3 mins drive from the layout, adjoining National Highway 67 within 5 drive, and National Highway 209 within 15 mins drive, reaching any landmark is convenient
+
+--- &custbg bg:"./assets/img/37.jpg"
+
+## LOCATION
+
+*** =right
+
+>* A 10 minute drive will take you to both Karamadai and Periyanaickenpalayam railway stations & bus stands which are pivotal to travelling long distances
+>* A weekend drive up to the Nilgiris is only a 1.5 hrs journey from Palm Meadows making this location ideal for a nature lover.
+>* REACHING ANY DESTINATION IS MADE CONVENIENT
+
+--- &custbg bg:"./assets/img/32.jpg"
+
+## PLANTING PROGRAMME
+
+*** =centre
+
+>* The layout enjoys cool temperatures even during summer months owing to the fact that it is 1,100 metres above sea level and enjoys the foliage of the  well maintained flowering and fruit trees within the layout. 
+>* Each plot is skirted with 17-20 fruiting and flowering trees forming a farm house ambience.
+
+--- &custbg bg:"./assets/img/fruits.jpg"
+
+## FRUITS
+
+>* Fruits have been carefully selected from a list of delicious and health oriented fruits
+
+---  &custbg bg:"./assets/img/flowers.jpg"
+
+## FLOWERS
+
+---  &custbg bg:"./assets/img/trees.jpg"
+
+## FRUITING & AVENUE TREES
+
+---  &custbg bg:"./assets/img/27.jpg"
+
+## ROADS AND AVENUES
+
+>*  The 36’ wide main road as well as 23’ wide avenue roads are made with a colour theme among trees.
+
+---  &custbg bg:"./assets/img/30.jpg"
+
+## ROADS AND AVENUES
+
+>* These low maintenance trees and shrubs create a riot of colour and bring nature at your doorstep.
+>* Black bitumen toppping of roads will soon be attended to
+
+---  &custbg bg:"./assets/img/56.jpg"
+
+## VIEWS
+
+>* Palm Meadows enjoys 180 degree view of the Western Ghats.
+>* Rain bearing clouds hugging the high ranges and the panoramic spectacle of the waterways during the monsoon are best enjoyed from Palm Meadows.
+
+---  &custbg bg:"./assets/img/48.jpg"
+
+## CONSERVATION
+
+>* With the abundance of ground water and wells within the layout, each plot is self-sufficient with the water resources for your future home. 
+
+---  &custbg bg:"./assets/img/54.jpg"
+
+## CONSERVATION
+
+>* Water conservation through drip irrigation and scientific control make this eco-system a model for the future. 
+
+---  &custbg bg:"./assets/img/53.jpg"
+
+## CONSERVATION
+
+*** =left
+
+>* Energy conservation through Solar lighting, soil rejuvenation through organic farming and green fuel generation through decomposition are hallmarks of Palm Meadows.
+
+---  &custbg bg:"./assets/img/33.jpg"
+
+## Security
+>* The layout is secured on all 4 sides with fencing and hedges
+
+## Vaasthu Compliant
+>* Palm Meadows is Vaasthu compliant and this bolsters the positivity that flows through the place
+
+---  &custbg bg:"./assets/img/31.jpg"
+
+
+## How good it would be to live in a farm house setting within the Coimbatore Corporation? 
+
+*** =left
+
+>* All the above visionary features at a reasonable price is what we offer at Palm Meadows. We hope to see you as part of the Palm Meadows family and feel one with the environment which we have established to make this place  you could soon call home.
