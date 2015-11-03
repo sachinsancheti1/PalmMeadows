@@ -116,3 +116,7 @@ knit        : slidify::knit2slides
 *** =left
 
 >* All the above visionary features at a reasonable price is what we offer at Palm Meadows. We hope to see you as part of the Palm Meadows family and feel one with the environment which we have established to make this place  you could soon call home.
+
+--- &custbg bg:"./assets/img/LocationMap.jpg"
+
+## LOCATION MAP
